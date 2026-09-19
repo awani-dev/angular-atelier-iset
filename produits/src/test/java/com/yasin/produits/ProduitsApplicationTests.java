@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.yasin.produits.entities.Produit;
-import com.yasin.produits.repos.ProduitRepo;
+import com.me.produits.entities.Produit;
+import com.me.produits.repos.ProduitRepo;
 
 @SpringBootTest
 class ProduitsApplicationTests {
