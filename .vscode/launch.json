@@ -5,7 +5,7 @@
             "name": "Spring Boot-ProduitsApplication<produits>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "mainClass": "com.yasin.produits.ProduitsApplication",
+            "mainClass": "com.me.produits.ProduitsApplication",
             "projectName": "produits",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
