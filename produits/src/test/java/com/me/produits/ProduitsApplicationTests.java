@@ -1,4 +1,4 @@
-package com.yasin.produits;
+package com.me.produits;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
